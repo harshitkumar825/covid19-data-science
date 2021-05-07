@@ -1,4 +1,4 @@
-,PHC,CHC,SDH,DH,Total,
+state,PHC,CHC,SDH,DH,Total,n_beds
 Andaman & Nicobar Islands,27,4,,3,34,1246
 Andhra Pradesh,1417,198,31,20,1666,60799
 Arunachal Pradesh,122,62,,15,199,2320
@@ -35,4 +35,3 @@ Tripura,114,22,12,9,157,4895
 Uttar Pradesh,3277,671,,174,4122,58310
 Uttarakhand,275,69,19,20,383,6660
 West Bengal,1374,406,70,55,1905,51163
-All India,"29,899","5,568","1,255","1,003","37,725","7,39,024"
