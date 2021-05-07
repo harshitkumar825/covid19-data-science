@@ -1,4 +1,4 @@
-State_Code,State,District_Key,Cowin Key,District,Total Individuals Registered,Total Sessions Conducted,Total Sites ,First Dose Administered,Second Dose Administered,Male(Individuals Vaccinated),Female(Individuals Vaccinated),Transgender(Individuals Vaccinated),Total Covaxin Administered,Total CoviShield Administered
+State_Code,state,District_Key,Cowin Key,District,tot_ind_registered,tot_sess_conducted,tot_sites ,first_dose_administered,second_dose_administered,male_ind _vaccinated,female_Ind_vaccinated,trans_ind_vaccinated,tot_covaxin_administered,tot_covishield_administered
 AN,Andaman and Nicobar Islands,AN_Nicobars,Nicobar,Nicobars,7850,500,5,7850,671,4084,3766,0,0,8521
 AN,Andaman and Nicobar Islands,AN_North and Middle Andaman,North and Middle Andaman,North and Middle Andaman,28403,1200,12,28403,1985,14917,13483,3,0,30388
 AN,Andaman and Nicobar Islands,AN_South Andaman,South Andaman,South Andaman,51612,1800,18,51612,6871,28710,22897,5,0,58483
